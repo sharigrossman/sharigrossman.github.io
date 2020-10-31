@@ -1,7 +1,7 @@
 - title: "Activity-by-contact model of enhancer-promoter regulation from thousands of CRISPR perturbations"
   citation: "Fulco CP, Nasser J, Jones TR, Munson G, Bergman DT, Subramanian V, **Grossman SR**, Anyoha R, Doughty BR, Patwardhan TA, Nguyen TH, Kane M, Perez EM, Durand NC, Lareau CA, Stamenova EK, Aiden EL, Lander ES, Engreitz JM.  *Nature Genetics*. 2019."
   date: '2019-11-29'
-  # image: '/static/img/pub/2020_lawson.jpg'
+  image: '/static/img/pub/natgen_2019.jpg'
   pmid: '31784727'
   pmcid: 'PMC6886585'
   # doi: '10.1038/s41588-019-0538-0'
@@ -14,7 +14,7 @@
 - title: "Detecting genome-wide directional effects of transcription factor binding on polygenic disease risk"
   citation: "Reshef YA, Finucane HK, Kelley DR, Gusev A, Kotliar D, Ulirsch JC, Hormozdiari F, Nasser J, O'Connor L, van de Geijn B, Loh PR, **Grossman SR**, Bhatia G, Gazal S, Palamara PF, Pinello L, Patterson N, Adams RP, Price AL.  *Nature Genetics*. 2018."
   date: '2018-09-03'
-  # image: '/static/img/pub/chitin_2019.jpg'
+  image: '/static/img/pub/natgen_yakir.jpg'
   pmid: '30177862'
   pmcid: 'PMC6202062'
   biorxiv: '204685'
@@ -41,7 +41,7 @@
 - title: "Systematic mapping of functional enhancer-promoter connections with CRISPR interference"
   citation: 'Fulco CP, Munschauer M, Anyoha R, Munson G, **Grossman SR**, Perez EM, Kane M, Cleary B, Lander ES, Engreitz JM. *Science*. 2016.'
   date: '2016-11-11'
-  # image: '/static/img/pub/thomaston_2017.jpg'
+  image: '/static/img/pub/crispri_science.jpg'
   pmid: 27708057
   pmcid: PMC5438575
   pdf: 'https://science.sciencemag.org/content/354/6313/769.full.pdf'
@@ -49,7 +49,7 @@
 - title: "RNA-RNA interactions enable specific targeting of noncoding RNAs to nascent Pre-mRNAs and chromatin sites"
   citation: 'Engreitz JM, Sirokman K, McDonel P, Shishkin AA, Surka C, Russell P, **Grossman SR**, Chow AY, Guttman M, Lander ES. *Cell*. 2014.'
   date: '2014-09-25'
-  # image: '/static/img/pub/wang_2016.jpg'
+  image: '/static/img/pub/rna_rna.jpg'
   pmid: 25259926
   pmcid: PMC4177037
   # biorxiv: "050286"
@@ -58,14 +58,11 @@
 - title: "Detecting natural selection in genomic data"
   citation: 'Vitti JJ, **Grossman SR**, Sabeti PC. *Annual Reviews Genetics*. 2013.'
   date: 201605
-  # image: '/static/img/pub/pubs_2015.jpg'
+  image: '/static/img/pub/annrev_2012.jpg'
   pmid: 24274750
   # pmcid: PMC4862753
   # biorxiv: "025452"
-  # pdf: ''
-  links:
-    - name: 'Full Text'
-      url: 'https://www.annualreviews.org/doi/pdf/10.1146/annurev-genet-111212-133526'
+  pdf: 'https://www.annualreviews.org/doi/pdf/10.1146/annurev-genet-111212-133526'
 
 - title: "Identifying recent adaptations in large-scale genomic data"
   citation: '**Grossman SR**, Andersen KG, Shlyakhter I, Tabrizi S, Winnicki S, Yen A, Park DJ, Griesemer D, Karlsson EK, Wong SH, Cabili M, Adegbola RA, Bamezai RN, Hill AV, Vannberg FO, Rinn JL; 1000 Genomes Project, Lander ES, Schaffner SF, Sabeti PC. *Cell*. 2013.'
@@ -78,7 +75,7 @@
 - title: "An integrated map of genetic variation from 1,092 human genomes"
   citation: '1000 Genomes Project Consortium, Abecasis GR, Auton A, Brooks LD, DePristo MA, Durbin RM, Handsaker RE, Kang HM, Marth GT, McVean GA. *Nature*. 2012.'
   date: '2012-11-01'
-  # image: '/static/img/pub/bab_1_2015.jpg'
+  image: '/static/img/pub/1000g_2012.jpg'
   pmid: 23128226
   pmcid: PMC3498066
   pdf: 'https://www.nature.com/articles/nature11632.pdf'
@@ -86,7 +83,7 @@
 - title: "Genome-wide scans provide evidence for positive selection of genes implicated in Lassa fever"
   citation: 'Andersen KG, Shylakhter I, Tabrizi S, **Grossman SR**, Happi CT, Sabeti PC. *Philos Trans R Soc Lond B Biol Sci*. 2012.'
   date: '2012-03-19'
-  # image: '/static/img/pub/bab_1_2015.jpg'
+  image: '/static/img/pub/lassa_andersen.jpg'
   pmid: 22312054
   pmcid: PMC3267117
   pdf: 'https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2011.0299'
@@ -94,7 +91,7 @@
 - title: "Detecting novel associations in large data sets"
   citation: 'Reshef DN, Reshef YA, Finucane HK, **Grossman SR**, McVean G, Turnbaugh PJ, Lander ES, Mitzenmacher M, Sabeti PC. *Science*. 2011.'
   date: '2011-12-16'
-  # image: '/static/img/pub/bab_1_2015.jpg'
+  image: '/static/img/pub/dave_science.jpg'
   pmid: 22174245
   pmcid: PMC3325791
   pdf: 'https://science.sciencemag.org/content/334/6062/1518.full.pdf'
@@ -103,7 +100,7 @@
 - title: "Identification and functional validation of the novel antimalarial resistance locus PF10_0355 in Plasmodium falciparum"
   citation: 'Van Tyne D, Park DJ, Schaffner SF, Neafsey DE, Angelino E, Cortese JF, Barnes KG, Rosen DM, Lukens AK, Daniels RF, Milner DA Jr, Johnson CA, Shlyakhter I, Grossman SR, Becker JS, Yamins D, Karlsson EK, Ndiaye D, Sarr O, Mboup S, Happi C, Furlotte NA, Eskin E, Kang HM, Hartl DL, Birren BW, Wiegand RC, Lander ES, Wirth DF, Volkman SK, Sabeti PC. *PLoS Genetics*. 2011.'
   date: '2011-04-21'
-  # image: '/static/img/pub/bab_1_2015.jpg'
+  image: '/static/img/pub/malaria_gwas.jpg'
   pmid: 21533027
   pmcid: PMC3080868
   pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3080868/pdf/pgen.1001383.pdf'
@@ -111,7 +108,7 @@
 - title: "A map of human genome variation from population-scale sequencing"
   citation: '1000 Genomes Project Consortium, Abecasis GR, Altshuler D, Auton A, Brooks LD, Durbin RM, Gibbs RA, Hurles ME, McVean GA. *Nature*. 2010.'
   date: '2010-10-28'
-  # image: '/static/img/pub/bab_1_2015.jpg'
+  image: '/static/img/pub/hapmap3.jpg'
   pmid: 20981092
   pmcid: PMC3042601
   pdf: 'https://www.nature.com/articles/nature09534.pdf'
@@ -119,6 +116,7 @@
 - title: "Ancient and recent adaptive evolution of primate non-homologous end joining genes"
   citation: 'Demogines A, East AM, Lee JH, Grossman SR, Sabeti PC, Paull TT, Sawyer SL. *PLoS Genetics*. 2010.'
   date: '2010-10-21'
+  image: '/static/img/pub/nhej_plos.jpg'
   pmid: 20975951
   pmcid: PMC2958818
   pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2958818/pdf/pgen.1001169.pdf'
@@ -126,7 +124,7 @@
 - title: "Integrating common and rare genetic variation in diverse human populations"
   citation: 'International HapMap 3 Consortium, Altshuler DM, Gibbs RA, Peltonen L, Altshuler DM, Gibbs RA, Peltonen L, Dermitzakis E, Schaffner SF, Yu F, Peltonen L, Dermitzakis E, Bonnen PE, Altshuler DM, Gibbs RA, de Bakker PI, Deloukas P, Gabriel SB, Gwilliam R, Hunt S, Inouye M, Jia X, Palotie A, Parkin M, Whittaker P, Yu F, Chang K, Hawes A, Lewis LR, Ren Y, Wheeler D, Gibbs RA, Muzny DM, Barnes C, Darvishi K, Hurles M, Korn JM, Kristiansson K, Lee C, McCarrol SA, Nemesh J, Dermitzakis E, Keinan A, Montgomery SB, Pollack S, Price AL, Soranzo N, Bonnen PE, Gibbs RA, Gonzaga-Jauregui C, Keinan A, Price AL, Yu F, Anttila V, Brodeur W, Daly MJ, Leslie S, McVean G, Moutsianas L, Nguyen H, Schaffner SF, Zhang Q, Ghori MJ, McGinnis R, McLaren W, Pollack S, Price AL, Schaffner SF, Takeuchi F, **Grossman SR**, Shlyakhter I, Hostetter EB, Sabeti PC, Adebamowo CA, Foster MW, Gordon DR, Licinio J, Manca MC, Marshall PA, Matsuda I, Ngare D, Wang VO, Reddy D, Rotimi CN, Royal CD, Sharp RR, Zeng C, Brooks LD, McEwen JE. *Nature*. 2010.'
   date: '2010-09-202'
-  # image: '/static/img/pub/bab_1_2015.jpg'
+  image: '/static/img/pub/hapmap_2.jpg'
   pmid: 20811451
   pmcid: PMC3173859
   pdf: 'https://www.nature.com/articles/nature09298.pdf'
