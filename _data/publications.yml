@@ -1,134 +1,110 @@
-- title: "Outcomes of the 2019 EMDataResource model challenge: validation of cryo-EM models at near-atomic resolution"
-  citation: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, **Barad BA**, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, Fraser JS, Jr. MAH, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, Wankowicz SA, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W. *Nature*. 2020."
-  date: '2020-06-19'
-  image: '/static/img/pub/2020_lawson.jpg'
-  # pmid: ''
-  # pmcid: ''
-  biorxiv: '2020.06.12.147033'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
-  links:
-    - name: 2019 Model Metrics Challenge
-      url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+- title: "Activity-by-contact model of enhancer-promoter regulation from thousands of CRISPR perturbations"
+  citation: "Fulco CP, Nasser J, Jones TR, Munson G, Bergman DT, Subramanian V, **Grossman SR**, Anyoha R, Doughty BR, Patwardhan TA, Nguyen TH, Kane M, Perez EM, Durand NC, Lareau CA, Stamenova EK, Aiden EL, Lander ES, Engreitz JM.  *Nature Genetics*. 2019."
+  date: '2019-11-29'
+  # image: '/static/img/pub/2020_lawson.jpg'
+  pmid: '31784727'
+  pmcid: 'PMC6886585'
+  # doi: '10.1038/s41588-019-0538-0'
+  biorxiv: '529990'
+  pdf: 'https://www.biorxiv.org/content/10.1101/529990v1.full.pdf'
+  # links:
+    # - name: 2019 Model Metrics Challenge
+      # url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
 
-- title: "Differences in the chitinolytic activity of mammalian chitinases on soluble and insoluble substrates"
-  citation: "**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**.  *Protein Science*. 2020."
-  date: '2020-01-12'
-  image: '/static/img/pub/chitin_2019.jpg'
-  pmid: '31930591'
-  pmcid: 'PMC7096708'
-  biorxiv: '762336'
-  pdf: '/static/pdf/2020_barad.pdf'
-  links:
-    - name: Chitin Analysis Scripts on GitHub
-      url: https://github.com/fraser-lab/chitin_analysis
-    - name: Relax Scripts for calculating non-linear relaxation fits on GitHub
-      url: https://github.com/fraser-lab/relax
-    - name: Locksley lab @ UC San Francisco
-      url: https://locksleylab.ucsf.edu
-    - name: Van Dyken lab @ Washington University in St. Louis
-      url: https://sites.wustl.edu/vandykenlab/
-    - name: Celebratory Tweetstorm
-      url: https://twitter.com/benjaminbarad/status/1171091343789056000
+- title: "Detecting genome-wide directional effects of transcription factor binding on polygenic disease risk"
+  citation: "Reshef YA, Finucane HK, Kelley DR, Gusev A, Kotliar D, Ulirsch JC, Hormozdiari F, Nasser J, O'Connor L, van de Geijn B, Loh PR, **Grossman SR**, Bhatia G, Gazal S, Palamara PF, Pinello L, Patterson N, Adams RP, Price AL.  *Nature Genetics*. 2018."
+  date: '2018-09-03'
+  # image: '/static/img/pub/chitin_2019.jpg'
+  pmid: '30177862'
+  pmcid: 'PMC6202062'
+  biorxiv: '204685'
+  pdf: 'https://www.biorxiv.org/content/10.1101/204685v2.full.pdf'
 
-- title: "Temperature-Jump Solution X-ray Scattering Reveals Distinct Motions in a Dynamic Enzyme"
-  citation: 'Thompson MC, **Barad BA**, Wolff AM, Cho HS, Schotte F, Schwarz DMC, Anfinrud P, Fraser JS. *Nature Chemistry*. 2019.'
-  date: 201810
-  image: '/static/img/pub/thompson_2018.jpg'
-  pmid: 31527847
-  pmcid: In Process
-  biorxiv: "476432"
-  pdf: '/static/pdf/2019_thompson.pdf'
-  links:
-    - name: Solution Scattering Code on Github
-      url: https://github.com/fraser-lab/solution_scattering
-    - name: Solution Scattering Data on NIH Figshare
-      url: https://doi.org/10.35092/yhjc.9177143
-    - name: BioCARS
-      url: 'https://biocars.uchicago.edu/'
-    - name: Philip Anfinrud
-      url: 'https://irp.nih.gov/pi/philip-anfinrud'
-    - name: 'Paper Submission Celebration Tweetstorm'
-      url: 'https://twitter.com/fraser_lab/status/1067213167367905280'
+- title: "Positional specificity of different transcription factor classes within enhancers"
+  citation: '**Grossman SR**, Engreitz J, Ray JP, Nguyen TH, Hacohen N, Lander ES. *Proceedings of the National Academy of Sciences*. 2018.'
+  date: '2018-07-24'
+  # image: '/static/img/pub/thompson_2018.jpg'
+  pmid: '29987030'
+  pmcid: 'PMC6065035'
+  # biorxiv: "476432"
+  pdf: 'https://www.pnas.org/content/pnas/115/30/E7222.full.pdf'
 
+- title: "Systematic dissection of genomic features determining transcription factor binding and enhancer function"
+  citation: '**Grossman SR**, Zhang X, Wang L, Engreitz J, Melnikov A, Rogov P, Tewhey R, Isakova A, Deplancke B, Bernstein BE, Mikkelsen TS, Lander ES. *Proceedings of the National Academy of Sciences*. 2017.'
+  date: '2017-02-14'
+  # image: '/static/img/pub/chatterjee_2018.jpg'
+  pmid: 28137873
+  pmcid: PMC5321001
+  # biorxiv: "441295"
+  pdf: 'https://www.pnas.org/content/pnas/114/7/E1291.full.pdf'
 
-      url: https://twitter.com/benjaminbarad/status/1171091343789056000
+- title: "Systematic mapping of functional enhancer-promoter connections with CRISPR interference"
+  citation: 'Fulco CP, Munschauer M, Anyoha R, Munson G, **Grossman SR**, Perez EM, Kane M, Cleary B, Lander ES, Engreitz JM. *Science*. 2016.'
+  date: '2016-11-11'
+  # image: '/static/img/pub/thomaston_2017.jpg'
+  pmid: 27708057
+  pmcid: PMC5438575
+  pdf: 'https://science.sciencemag.org/content/354/6313/769.full.pdf'
 
-- title: "Synthetic essentiality of metabolic regulator PDHK1 in PTEN-deficient cells and cancers"
-  citation: 'Chatterjee N, Pazarentzos E, Mayekar MK, Gui P, Allegakoen DV, Hrustanovic G, Olivas V, Lin L, Verschueren E, Johnson JR, Hofree M, Yan JJ, Newton BW, Dollen JV, Earnshaw CH, Flanagan J, Chan E, Asthana S, Ideker T, Wu W, Suzuki J, **Barad BA**, Kirichok Y, Fraser JS, Weiss WA, Krogan NJ, Tulpule A, Sabnis AJ, Bivona TG. *Cell Reports.* 2019.'
-  date: 201810
-  image: '/static/img/pub/chatterjee_2018.jpg'
-  pmid: 31461649
-  pmcid: PMC6728083
-  biorxiv: "441295"
-  pdf: '/static/pdf/2019_chatterjee_pazarentzos.pdf'
-  links:
-    - name: Bivona Lab
-      url: https://www.bivonalab.net/
+- title: "RNA-RNA interactions enable specific targeting of noncoding RNAs to nascent Pre-mRNAs and chromatin sites"
+  citation: 'Engreitz JM, Sirokman K, McDonel P, Shishkin AA, Surka C, Russell P, **Grossman SR**, Chow AY, Guttman M, Lander ES. *Cell*. 2014.'
+  date: '2014-09-25'
+  # image: '/static/img/pub/wang_2016.jpg'
+  pmid: 25259926
+  pmcid: PMC4177037
+  # biorxiv: "050286"
+  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4177037/pdf/nihms625961.pdf'
 
-- title: "XFEL structures of the influenza M2 proton channel: Room temperature water networks and insights into proton conduction"
-  citation: 'Thomaston JL, Woldeyes RA, Nakane T, Yamashita A, Tanaka T, Koiwai K, Brewster AS, **Barad BA**, Chen Y, Lemmin T, Uervirojnangkoorn M, Arima T, Kobayashi J, Masuda T, Suzuki M, Sugahara M, Sauter NK, Tanaka R, Nureki O, Tono K, Joti Y, Nango E, Iwata S, Yumoto F, Fraser JS, DeGrado WF. *Proceedings of the National Academy of Sciences*. 2017.'
-  date: 201707
-  image: '/static/img/pub/thomaston_2017.jpg'
-  pmid: 28835537
-  pmcid: PMC5754760
-  pdf: '/static/pdf/thomaston_2017.pdf'
-  pdbs:
-    - 5JOO
-    - 5UM1
-    - 5TTC
-  links:
-    - name: 'DeGrado Lab'
-      url: 'https://pharm.ucsf.edu/degrado'
-    - name: 'SACLA XFEL'
-      url: 'http://xfel.riken.jp/eng/'
-
-
-- title: "Automated structure refinement of macromolecular assemblies from cryo-EM maps using Rosetta"
-  citation: 'Wang RYR, Song Y, **Barad BA**, Cheng Y, Fraser JS, DiMaio F. *eLife*. 2016.'
-  date: 201606
-  image: '/static/img/pub/wang_2016.jpg'
-  pmid: 27669148
-  pmcid: PMC5115868
-  biorxiv: "050286"
-  pdf: '/static/pdf/wang_2016.pdf'
-  links:
-    - name: 'DiMaio Lab'
-      url: 'https://faculty.washington.edu/dimaio/wordpress/'
-
-- title: "Determination of Ubiquitin Fitness Landscapes Under Different Chemical Stresses in a Classroom Setting"
-  citation: 'Mavor D, Barlow KA, Thompson S, **Barad BA**, Bonny AR, Cario CL, Gaskins G, Liu Z, Deming L, Axen SD, Caceres E, Chen W, Cuesta A, Gate R, Green EM, Hulce KR, Ji W, Kenner LR, Mensa B, Morinishi LS, Moss SM, Mravic M, Muir RK, Niekamp S, Nnadi CI, Palovcak E, Poss EM, Ross TD, Salcedo E, See S, Subramaniam M, Wong AW, Li J, Thorn KS, Conchúir SÓ, Roscoe BP, Chow ED, DeRisi JL, Kortemme T, Bolon DN, Fraser JS. *eLife*. 2016.'
+- title: "Detecting natural selection in genomic data"
+  citation: 'Vitti JJ, **Grossman SR**, Sabeti PC. *Annual Reviews Genetics*. 2013.'
   date: 201605
-  image: '/static/img/pub/pubs_2015.jpg'
-  pmid: 27111525
-  pmcid: PMC4862753
-  biorxiv: "025452"
-  pdf: '/static/pdf/mavor_elife_2016.pdf'
+  # image: '/static/img/pub/pubs_2015.jpg'
+  pmid: 24274750
+  # pmcid: PMC4862753
+  # biorxiv: "025452"
+  # pdf: ''
   links:
-    - name: 'Paper Submission Celebration Photo'
-      url: 'https://twitter.com/fraser_lab/status/635972900013498368'
-    - name: PUBS Code on Github
-      url: 'https://github.com/fraser-lab/PUBS2014'
-    - name: 'Course Syllabus'
-      url: 'http://fraserlab.com/pubs_2014/'
-    - name: 'eLIFEdigest: Yeast in a class of their own'
-      url: 'https://medium.com/lifes-building-blocks/yeast-in-a-class-of-their-own-4dabb27653eb#.tcf71ly8z'
+    - name: 'Full Text'
+      url: 'https://www.annualreviews.org/doi/pdf/10.1146/annurev-genet-111212-133526'
 
-- title: "EMRinger: Side-chain-directed model and map validation for 3D Electron Cryomicroscopy"
-  citation: '**Barad BA**, Echols N, Wang RYR, Cheng Y, DiMaio F, Adams PD, Fraser JS. *Nature Methods*. 2015.'
-  date: 201503
-  image: '/static/img/pub/bab_1_2015.jpg'
-  pmid: 26280328
-  biorxiv: 014738
-  pmcid: In process
-  pdf: '/static/pdf/barad_2015.pdf'
-  pdbs:
-    - 3J9I
-    - 3J9J
-  links:
-    - name: Paper Submission Celebration Photo
-      url: 'https://twitter.com/fraser_lab/status/562799246689460224'
-    - name: EMRinger Code on Github
-      url: 'https://github.com/fraser-lab/EMRinger'
-    - name: Blog Post about EMRinger
-      url: '/2015/02/17/EMRinger/'
+- title: "Identifying recent adaptations in large-scale genomic data"
+  citation: '**Grossman SR**, Andersen KG, Shlyakhter I, Tabrizi S, Winnicki S, Yen A, Park DJ, Griesemer D, Karlsson EK, Wong SH, Cabili M, Adegbola RA, Bamezai RN, Hill AV, Vannberg FO, Rinn JL; 1000 Genomes Project, Lander ES, Schaffner SF, Sabeti PC. *Cell*. 2013.'
+  date: '2013-02-14'
+  # image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: 23415221
+  pmcid: PMC3674781
+  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3674781/pdf/nihms-441757.pdf'
 
+- title: "An integrated map of genetic variation from 1,092 human genomes"
+  citation: '1000 Genomes Project Consortium, Abecasis GR, Auton A, Brooks LD, DePristo MA, Durbin RM, Handsaker RE, Kang HM, Marth GT, McVean GA. *Nature*. 2012.'
+  date: '2012-11-01'
+  # image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: 23128226
+  pmcid: PMC3498066
+  pdf: 'https://www.nature.com/articles/nature11632.pdf'
+  
+  - title: "Genome-wide scans provide evidence for positive selection of genes implicated in Lassa fever"
+  citation: 'Andersen KG, Shylakhter I, Tabrizi S, **Grossman SR**, Happi CT, Sabeti PC. *Philos Trans R Soc Lond B Biol Sci*. 2012.'
+  date: '2012-03-19'
+  # image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: 22312054
+  pmcid: PMC3267117
+  pdf: 'https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2011.0299'
+  
+   - title: "Detecting novel associations in large data sets"
+  citation: 'Reshef DN, Reshef YA, Finucane HK, **Grossman SR**, McVean G, Turnbaugh PJ, Lander ES, Mitzenmacher M, Sabeti PC. *Science*. 2011.'
+  date: '2011-12-16'
+  # image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: 22174245
+  pmcid: PMC3325791
+  pdf: 'https://science.sciencemag.org/content/334/6062/1518.full.pdf'
+  
+     - title: "Identification and functional validation of the novel antimalarial resistance locus PF10_0355 in Plasmodium falciparum"
+  citation: 'Van Tyne D, Park DJ, Schaffner SF, Neafsey DE, Angelino E, Cortese JF, Barnes KG, Rosen DM, Lukens AK, Daniels RF, Milner DA Jr, Johnson CA, Shlyakhter I, Grossman SR, Becker JS, Yamins D, Karlsson EK, Ndiaye D, Sarr O, Mboup S, Happi C, Furlotte NA, Eskin E, Kang HM, Hartl DL, Birren BW, Wiegand RC, Lander ES, Wirth DF, Volkman SK, Sabeti PC. *PLoS Genetics*. 2011.'
+  date: '2011-04-21'
+  # image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: 21533027
+  pmcid: PMC3080868
+  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3080868/pdf/pgen.1001383.pdf'
+  
+  
