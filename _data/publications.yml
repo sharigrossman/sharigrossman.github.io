@@ -1,7 +1,7 @@
 - title: "Activity-by-contact model of enhancer-promoter regulation from thousands of CRISPR perturbations"
   citation: "Fulco CP, Nasser J, Jones TR, Munson G, Bergman DT, Subramanian V, **Grossman SR**, Anyoha R, Doughty BR, Patwardhan TA, Nguyen TH, Kane M, Perez EM, Durand NC, Lareau CA, Stamenova EK, Aiden EL, Lander ES, Engreitz JM.  *Nature Genetics*. 2019."
   date: '2019-11-29'
-  image: '/static/img/pub/natgen_2019.jpg'
+  image: '/static/img/pub/natgen_2019.png'
   pmid: '31784727'
   pmcid: 'PMC6886585'
   # doi: '10.1038/s41588-019-0538-0'
