@@ -23,7 +23,7 @@
 - title: "Positional specificity of different transcription factor classes within enhancers"
   citation: '**Grossman SR**, Engreitz J, Ray JP, Nguyen TH, Hacohen N, Lander ES. *Proceedings of the National Academy of Sciences*. 2018.'
   date: '2018-07-24'
-  # image: '/static/img/pub/thompson_2018.jpg'
+  image: '/static/img/pub/pnas_2018.jpg'
   pmid: '29987030'
   pmcid: 'PMC6065035'
   # biorxiv: "476432"
@@ -32,7 +32,7 @@
 - title: "Systematic dissection of genomic features determining transcription factor binding and enhancer function"
   citation: '**Grossman SR**, Zhang X, Wang L, Engreitz J, Melnikov A, Rogov P, Tewhey R, Isakova A, Deplancke B, Bernstein BE, Mikkelsen TS, Lander ES. *Proceedings of the National Academy of Sciences*. 2017.'
   date: '2017-02-14'
-  # image: '/static/img/pub/chatterjee_2018.jpg'
+  image: '/static/img/pub/PNAS_2017.png'
   pmid: 28137873
   pmcid: PMC5321001
   # biorxiv: "441295"
@@ -70,7 +70,7 @@
 - title: "Identifying recent adaptations in large-scale genomic data"
   citation: '**Grossman SR**, Andersen KG, Shlyakhter I, Tabrizi S, Winnicki S, Yen A, Park DJ, Griesemer D, Karlsson EK, Wong SH, Cabili M, Adegbola RA, Bamezai RN, Hill AV, Vannberg FO, Rinn JL; 1000 Genomes Project, Lander ES, Schaffner SF, Sabeti PC. *Cell*. 2013.'
   date: '2013-02-14'
-  # image: '/static/img/pub/bab_1_2015.jpg'
+  image: '/static/img/pub/cell_2013.jpg'
   pmid: 23415221
   pmcid: PMC3674781
   pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3674781/pdf/nihms-441757.pdf'
@@ -135,7 +135,7 @@
 - title: "A composite of multiple signals distinguishes causal variants in regions of positive selection"
   citation: '**Grossman SR**, Shlyakhter I, Karlsson EK, Byrne EH, Morales S, Frieden G, Hostetter E, Angelino E, Garber M, Zuk O, Lander ES, Schaffner SF, Sabeti PC. *Science*. 2010.'
   date: '2010-02-12'
-  # image: '/static/img/pub/bab_1_2015.jpg'
+  image: '/static/img/pub/science_2010.jpg'
   pmid: 20056855
   pmcid: PMC2958818
   pdf: 'https://science.sciencemag.org/content/327/5967/883.full.pdf'
