@@ -83,7 +83,7 @@
   pmcid: PMC3498066
   pdf: 'https://www.nature.com/articles/nature11632.pdf'
   
-  - title: "Genome-wide scans provide evidence for positive selection of genes implicated in Lassa fever"
+- title: "Genome-wide scans provide evidence for positive selection of genes implicated in Lassa fever"
   citation: 'Andersen KG, Shylakhter I, Tabrizi S, **Grossman SR**, Happi CT, Sabeti PC. *Philos Trans R Soc Lond B Biol Sci*. 2012.'
   date: '2012-03-19'
   # image: '/static/img/pub/bab_1_2015.jpg'
@@ -91,7 +91,7 @@
   pmcid: PMC3267117
   pdf: 'https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2011.0299'
   
-   - title: "Detecting novel associations in large data sets"
+- title: "Detecting novel associations in large data sets"
   citation: 'Reshef DN, Reshef YA, Finucane HK, **Grossman SR**, McVean G, Turnbaugh PJ, Lander ES, Mitzenmacher M, Sabeti PC. *Science*. 2011.'
   date: '2011-12-16'
   # image: '/static/img/pub/bab_1_2015.jpg'
@@ -99,7 +99,8 @@
   pmcid: PMC3325791
   pdf: 'https://science.sciencemag.org/content/334/6062/1518.full.pdf'
   
-     - title: "Identification and functional validation of the novel antimalarial resistance locus PF10_0355 in Plasmodium falciparum"
+
+- title: "Identification and functional validation of the novel antimalarial resistance locus PF10_0355 in Plasmodium falciparum"
   citation: 'Van Tyne D, Park DJ, Schaffner SF, Neafsey DE, Angelino E, Cortese JF, Barnes KG, Rosen DM, Lukens AK, Daniels RF, Milner DA Jr, Johnson CA, Shlyakhter I, Grossman SR, Becker JS, Yamins D, Karlsson EK, Ndiaye D, Sarr O, Mboup S, Happi C, Furlotte NA, Eskin E, Kang HM, Hartl DL, Birren BW, Wiegand RC, Lander ES, Wirth DF, Volkman SK, Sabeti PC. *PLoS Genetics*. 2011.'
   date: '2011-04-21'
   # image: '/static/img/pub/bab_1_2015.jpg'
@@ -107,4 +108,34 @@
   pmcid: PMC3080868
   pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3080868/pdf/pgen.1001383.pdf'
   
+- title: "A map of human genome variation from population-scale sequencing"
+  citation: '1000 Genomes Project Consortium, Abecasis GR, Altshuler D, Auton A, Brooks LD, Durbin RM, Gibbs RA, Hurles ME, McVean GA. *Nature*. 2010.'
+  date: '2010-10-28'
+  # image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: 20981092
+  pmcid: PMC3042601
+  pdf: 'https://www.nature.com/articles/nature09534.pdf'
+
+- title: "Ancient and recent adaptive evolution of primate non-homologous end joining genes"
+  citation: 'Demogines A, East AM, Lee JH, Grossman SR, Sabeti PC, Paull TT, Sawyer SL. *PLoS Genetics*. 2010.'
+  date: '2010-10-21'
+  # image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: 20975951
+  pmcid: PMC2958818
+  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2958818/pdf/pgen.1001169.pdf'
   
+- title: "Integrating common and rare genetic variation in diverse human populations"
+  citation: 'International HapMap 3 Consortium, Altshuler DM, Gibbs RA, Peltonen L, Altshuler DM, Gibbs RA, Peltonen L, Dermitzakis E, Schaffner SF, Yu F, Peltonen L, Dermitzakis E, Bonnen PE, Altshuler DM, Gibbs RA, de Bakker PI, Deloukas P, Gabriel SB, Gwilliam R, Hunt S, Inouye M, Jia X, Palotie A, Parkin M, Whittaker P, Yu F, Chang K, Hawes A, Lewis LR, Ren Y, Wheeler D, Gibbs RA, Muzny DM, Barnes C, Darvishi K, Hurles M, Korn JM, Kristiansson K, Lee C, McCarrol SA, Nemesh J, Dermitzakis E, Keinan A, Montgomery SB, Pollack S, Price AL, Soranzo N, Bonnen PE, Gibbs RA, Gonzaga-Jauregui C, Keinan A, Price AL, Yu F, Anttila V, Brodeur W, Daly MJ, Leslie S, McVean G, Moutsianas L, Nguyen H, Schaffner SF, Zhang Q, Ghori MJ, McGinnis R, McLaren W, Pollack S, Price AL, Schaffner SF, Takeuchi F, **Grossman SR**, Shlyakhter I, Hostetter EB, Sabeti PC, Adebamowo CA, Foster MW, Gordon DR, Licinio J, Manca MC, Marshall PA, Matsuda I, Ngare D, Wang VO, Reddy D, Rotimi CN, Royal CD, Sharp RR, Zeng C, Brooks LD, McEwen JE. *Nature*. 2010.'
+  date: '2010-09-202'
+  # image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: 20811451
+  pmcid: PMC3173859
+  pdf: 'https://www.nature.com/articles/nature09298.pdf'
+  
+- title: "A composite of multiple signals distinguishes causal variants in regions of positive selection"
+  citation: '**Grossman SR**, Shlyakhter I, Karlsson EK, Byrne EH, Morales S, Frieden G, Hostetter E, Angelino E, Garber M, Zuk O, Lander ES, Schaffner SF, Sabeti PC. *Science*. 2010.'
+  date: '2010-02-12'
+  # image: '/static/img/pub/bab_1_2015.jpg'
+  pmid: 20056855
+  pmcid: PMC2958818
+  pdf: 'https://science.sciencemag.org/content/327/5967/883.full.pdf'
