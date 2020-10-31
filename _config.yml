@@ -1,7 +1,7 @@
 name: "Sharon Grossman"
 description: "The Personal Homepage for Sharon Grossman"
 
-url: "http://sharongrossman.com"
+url: "http://sharonrgrossman.com"
 
 gems: [jekyll-paginate]
 paginate: 5
